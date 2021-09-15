@@ -1,2 +1,2 @@
 # unbreak
-Fix the GRBL toolpath files that Fusion 360 grenerates
+Fix the GRBL toolpath files that Fusion 360 generates
